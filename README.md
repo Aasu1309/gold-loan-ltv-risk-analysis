@@ -6,7 +6,7 @@ Gold prices have fallen sharply. Find which active gold loans now breach the reg
 
 > A live industry project on [JobPrax](https://www.jobprax.com). The client, Suvarna Finance Ltd, and its data are simulated.
 
-> **Status: in progress.** 32 of 50 tasks solved as of 26 Nov 2026. The final report will be added when the project is complete.
+> **Status: in progress.** 32 of 50 tasks solved as of 27 Nov 2026. The final report will be added when the project is complete.
 
 ## Business problem
 
@@ -22,12 +22,14 @@ Management does not know how many active gold loans currently breach the 75% LTV
 
 ## Work so far
 
+- ✅ [Task 11: Loans by karat](sql/task-11-loans-by-karat.sql)
+- ✅ [Task 18: Date of the peak](sql/task-18-date-of-the-peak.sql)
 - ✅ [Task 20: Fall from the peak](sql/task-20-fall-from-the-peak.sql)
 
 ## What I did
 
 - Solved 32 of 50 analysis tasks tied to the business requirements
-- Wrote 1 SQL query, one per task, in [`sql/`](sql)
+- Wrote 3 SQL queries, one per task, in [`sql/`](sql)
 - Explored and charted the data in Python, in [`notebook/analysis.ipynb`](notebook/analysis.ipynb)
 
 ## Skills
